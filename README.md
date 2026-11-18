@@ -2,7 +2,7 @@
 aplikasi berbasisi bahasa C untuk mengelolah stok dan penjualan produk kantin kampus menggunakan array
 # SISTEM MONITORING STOK DAN PENJUALAN KANTIN KAMPUS
 # Identitas Mahasiswa
- Nama: Annisa Rizkika
+- Nama: Annisa Rizkika
 - NIM: C2583207005
 - Kelas: PTI 3B
 - Mata kuliah: Algoritma dan Pemrograman Lanjutan
