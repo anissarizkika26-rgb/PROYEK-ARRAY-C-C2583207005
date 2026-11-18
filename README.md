@@ -2,7 +2,7 @@
 aplikasi berbasisi bahasa C untuk mengelolah stok dan penjualan produk kantin kampus menggunakan array
 # SISTEM MONITORING STOK DAN PENJUALAN KANTIN KAMPUS
 # Identitas Mahasiswa
-- Nama: Annisa Rizkika
+ Nama: Annisa Rizkika
 - NIM: C2583207005
 - Kelas: PTI 3B
 - Mata kuliah: Algoritma dan Pemrograman Lanjutan
@@ -28,12 +28,39 @@ Program ini merupakan aplikasi console berbasis bahasa C untuk membantu pengelol
 - int stok[50] sebagai array satu dimensi untuk menyimpan stok.
 - int jumlahTerjual[50] sebagai array satu dimensi untuk menyimpan jumlah produk yang sudah terjual.
 Indeks yang sama pada setiap array menunjukkan satu produk yang sama. Variabel jumlahProduk digunakan untuk mencatat jumlah data produk yang aktif. Data awal terdiri dari lima produk.
-## Cara Menjalankan
-Kompilasi program:
-gcc main.c -o kantin
+# Cara Menjalankan Program
 
-Jalankan program:
+Pastikan komputer sudah memiliki compiler bahasa C, seperti GCC.
+
+# Langkah 1: Menyiapkan File
+
+Simpan kode program dengan nama:
+
+`main.c`
+
+# Langkah 2: Melakukan Kompilasi
+
+Buka terminal pada folder tempat file disimpan, kemudian jalankan:
+
+```bash
+gcc main.c -o kantin
+```
+
+# Langkah 3: Menjalankan Program
+
+Untuk Windows:
+
+```bash
+kantin.exe
+```
+
+Untuk Linux:
+
+```bash
 ./kantin
+```
+
+Setelah program dijalankan, menu utama akan muncul dan pengguna dapat memilih fitur yang ingin dig
 
 # Dokumentasi pengujian 
 # Tampilan
