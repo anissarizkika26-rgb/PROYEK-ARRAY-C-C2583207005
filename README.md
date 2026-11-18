@@ -28,17 +28,12 @@ Program ini merupakan aplikasi console berbasis bahasa C untuk membantu pengelol
 - int stok[50] sebagai array satu dimensi untuk menyimpan stok.
 - int jumlahTerjual[50] sebagai array satu dimensi untuk menyimpan jumlah produk yang sudah terjual.
 Indeks yang sama pada setiap array menunjukkan satu produk yang sama. Variabel jumlahProduk digunakan untuk mencatat jumlah data produk yang aktif. Data awal terdiri dari lima produk.
-# Cara menjalankan program
-Jika menggunakan GCC, buka terminal di folder tempat file disimpan, lalu ketik:
+## Cara Menjalankan
+Kompilasi program:
 gcc main.c -o kantin
 
-
-Jalankan dengan:
+Jalankan program:
 ./kantin
-
-
-Jika menggunakan Windows:
-kantin.exe
 
 # Dokumentasi pengujian 
 # Tampilan
